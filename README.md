@@ -8,7 +8,7 @@ Simple REST API for managing a mock bookstore system written in Go.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/daniyarzhalgas/BookStoreRest.git
+git clone https://github.com/daniyarzhalgas/Book-Store-RESTful-Go.git
 cd BookStoreRest
 
 ```
